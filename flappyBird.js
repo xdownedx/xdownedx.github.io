@@ -1,7 +1,5 @@
 var cvs = document.getElementById("canvas");
-cvs.disable-dbl-tap-zoom {
-  touch-action: manipulation;
-}
+
 var ctx = cvs.getContext("2d");
 
 // load images
