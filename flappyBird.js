@@ -1,5 +1,5 @@
 var cvs = document.getElementById("canvas");
-
+cvs.lockUniScaling = true
 var ctx = cvs.getContext("2d");
 
 // load images
