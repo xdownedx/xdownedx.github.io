@@ -1,5 +1,4 @@
 var cvs = document.getElementById("canvas");
-cvs.allowTouchScrolling: true
 var ctx = cvs.getContext("2d");
 
 // load images
